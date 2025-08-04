@@ -74,3 +74,8 @@ Criação de um repositório (Flow It?) com os aprendizados, armadilhas e ferram
 
 Lançamento de um segundo ciclo: O Chamado do Fio (IA que sente, lê, escuta e responde).
 
+
+🛡️ Este projeto está protegido sob a licença Creative Commons CC BY-NC-SA 4.0.  
+Uso comercial requer autorização.  
+[Mais informações sobre a licença.](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.pt_BR)
+
